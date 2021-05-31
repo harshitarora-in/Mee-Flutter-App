@@ -1,4 +1,4 @@
-<h1>Mee Flutter App<h1>
+Mee Flutter App
 <br>
 A digital View of your Business Card
 ![Mee App Mockup 1](https://user-images.githubusercontent.com/56164789/120205622-cba53300-c247-11eb-939d-acf0309d7da4.png)
